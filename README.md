@@ -79,9 +79,9 @@ After these steps you should have all the ROS packages required to run the RPG Q
    source <path_to_gp_mpc_venv>/bin/activate
    ```
 
-1. Clone this repository into your catkin workspace.
+1. Clone this repository into your src folder of catkin workspace.
    ```
-   cd <CATKIN_WS_DIR>
+   cd <CATKIN_WS_DIR>/src
    git clone https://github.com/uzh-rpg/data_driven_mpc.git
    ```
    
